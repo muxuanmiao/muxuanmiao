@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
--🎓 I'm currently a student at Shandong University.
--🌿 I'm focusing on hash learning and Class-Incremental Learning.
--📧 How to reach me: muxuanmiao88@163.com
--🌐 Website: https://muxuanmiao.github.io/
+- 🎓 I'm currently a student at Shandong University.
+- 🌿 I'm focusing on hash learning and Class-Incremental Learning.
+- 📧 How to reach me: [muxuanmiao88@163.com](mailto:muxuanmiao88@163.com)
+- 🌐 Website: [https://muxuanmiao.github.io/](https://muxuanmiao.github.io/)
